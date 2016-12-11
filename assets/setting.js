@@ -1,7 +1,7 @@
-var URL = "/golden""; //-- EDIT here 
+var URL = "/golden"; //-- EDIT here 
 var facebookAppId = "123";
 var googleAnalyticId = "UA-11";
-var keywords = "van chuyen";
+var keywords = "van chuyen", "logistic";
 
 var colors = [ 
     "red","blue","green","orange",  
