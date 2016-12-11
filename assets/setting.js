@@ -1,8 +1,7 @@
-var URL = "/danko"; //-- EDIT here 
-// var URL = ""; //-- EDIT here 
+var URL = "/golden""; //-- EDIT here 
 var facebookAppId = "123";
 var googleAnalyticId = "UA-11";
-var keywords = "marketing online hieu qua";
+var keywords = "van chuyen", "logistic";
 
 var colors = [ 
     "red","blue","green","orange",  
@@ -14,7 +13,7 @@ var colors = [
     // "brown", "grey", "blue-grey"      
 ];
 
-colors = ['yellow']
+colors = ['blue']
 var i = Math.floor( Math.random() * (colors.length - 0) + 0 );
 var chooseColor = colors[i].toString();
 
